@@ -1,4 +1,4 @@
-## Hi I'm Franck-Arnaud 👋 
+## Hi I'm @franck-arnaud 👋 
 
 🌱 I’m currently learning Machine Learning  
 🧠 I’m interested in Deep Learning, Computer Vision, and NLP  
